@@ -1,6 +1,6 @@
 <div align="center">
   <a href='https://postimages.org/' target='_blank'>
-    <img src="https://i.ibb.co/Cpm96CjX/Videojuegos.png" alt="GIF width="600" style="margin-bottom: 10px;">
+    <img src="https://i.ibb.co/Cpm96CjX/Videojuegos.png" alt="GIF width="800" style="margin-bottom: 10px;">
   </a>
 </div>
 
