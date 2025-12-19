@@ -1,6 +1,12 @@
+<div align="center">
+  <a href='https://postimages.org/' target='_blank'>
+    <img src="https://i.ibb.co/R4zZzm2h/Gemini-Generated-Image-dr8240dr8240dr82-removebg-preview.png" alt="GIF width="600" style="margin-bottom: 10px;">
+  </a>
+</div>
+
 <div align="center" style="color:#148c2e;">
   <br>
-  <h3>Proyectos Videojuegos</h3>  
+
   <table width="100%" align="center">
 		<tr>
 		      <td width="30%" align="center">
