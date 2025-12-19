@@ -91,5 +91,15 @@
     </table>
   <br>
 </div>
-      <a href="https://github.com/garciaw602/garciaw602/blob/main/README.md" style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">
+
+
+	  <table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/garciaw602/garciaw602/blob/main/README.md" 
+         style="display: block; width: 200px; padding: 10px; background-color: #22c3e6; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif; text-align: center;">
         Inicio
+      </a>
+    </td>
+  </tr>
+</table>
